@@ -1,6 +1,10 @@
-venv/
-.env
+db/*.sqlite3
+db/*.db
+db/chroma/
+cache/
 logs/
 *.log
+venv/
+.env
 __pycache__/
 *.pyc
